@@ -55,6 +55,9 @@
         var newWindowWidth1 = $(window).height();
         var mql = window.matchMedia("(orientation: portrait)");
         var mql1 = window.matchMedia("(orientation: landscape)");
+        if(newWindowWidth == 1080 && portrait.matches){
+          alert("hey A50")
+        }
         if(newWindowWidth < 768){
         if(mql.matches){
           // alert("hey port")
