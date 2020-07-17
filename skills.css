@@ -679,7 +679,7 @@ a {
         position: fixed;
         width: 100%;
         z-index: 3;
-        margin: 0px 0px 0px 400px;
+        margin: 0px 0px 0px 350px;
     }
     .header2 .logo2 {
         height: 35%;
@@ -698,7 +698,7 @@ a {
         font-size: small;
     }
     .my {
-        margin: 0px 150px 0px 150px;
+        margin: 0px 100px 0px 100px;
     }
     #skil {
         margin: 0px 10px 0px 0px;
