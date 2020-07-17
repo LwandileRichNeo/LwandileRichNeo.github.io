@@ -652,6 +652,7 @@ a {
         position: fixed;
         width: 100%;
         z-index: 3;
+        margin: 0px 0px 0px 350px;
     }
     .header2 .logo2 {
         height: 35%;
