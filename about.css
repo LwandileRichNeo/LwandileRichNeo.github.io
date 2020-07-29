@@ -416,7 +416,7 @@ a {
     float: center;
     font-size: 2em;
     text-align: center;
-    padding: 10px 50px;
+    padding: 10px 10px;
     margin: 400px 10px 0px 500px;
     text-decoration: none;
     color: black;
@@ -497,7 +497,7 @@ a {
         float: center;
         font-size: 2em;
         text-align: center;
-        padding: 10px 10px 20px 10px;
+        padding: 0px 0px 0px 0px;
         margin: 250px 10px 0px 50px;
         overflow: auto;
         text-decoration: none;
@@ -524,7 +524,7 @@ a {
         float: center;
         font-size: 2em;
         text-align: center;
-        padding: 10px 10px 20px 10px;
+        padding: 0px 0px 0px 0px;
         margin: 250px 10px 0px 50px;
         overflow: auto;
         text-decoration: none;
